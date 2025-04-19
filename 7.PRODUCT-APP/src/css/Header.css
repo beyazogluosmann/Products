@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(140, 100, 157);
+
+    display: flex;              /* Flexbox aktif */
+    align-items: center;        /* Dikey ortalama */
+    padding-left: 40px;         /* Soldan boşluk */
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #fff;
+    padding-top: 25px 10px;
+    
+}
